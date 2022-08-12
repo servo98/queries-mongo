@@ -1,0 +1,23 @@
+{
+  "name": "queries-mongo",
+  "version": "1.0.0",
+  "description": "Ejercicios de queries de mongo con una base de datos de restaurantes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/servo98/queries-mongo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/servo98/queries-mongo/issues"
+  },
+  "homepage": "https://github.com/servo98/queries-mongo#readme",
+  "dependencies": {
+    "mongoose": "^6.5.2"
+  }
+}
